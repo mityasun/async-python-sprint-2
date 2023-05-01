@@ -2,3 +2,7 @@
 .idea/
 __pycache__/
 *.pyc
+/venv/
+/report.log
+/saved_jobs.pkl
+/.pytest_cache/
